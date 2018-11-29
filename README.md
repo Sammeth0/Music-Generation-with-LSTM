@@ -1,11 +1,11 @@
-#Generating Music with Keras and LSTM
+# Generating Music with Keras and LSTM
 
 1. Read midi file, convert it to matrix of features
 2. Create simple model with Keras and LSTM to learn the pattern
 3. Use subsample of initial midi file as input for model
 4. Save prediction from model to midi file
 
-###Dependencies:
+### Dependencies:
 - Midi
 - TensorFlow
 - Keras1

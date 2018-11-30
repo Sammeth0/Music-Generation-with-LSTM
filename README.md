@@ -12,3 +12,5 @@
 - numpy
 
 MIDI: Musical Instrument Digital Interface ( a technical standard to describe  communications protocol, digital interface, and electrical connectors that connect a wide variety of electronic musical instruments, computers, and related audio devices).
+
+PS: I'm trying to improve it!
